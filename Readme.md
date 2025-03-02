@@ -23,10 +23,6 @@ This project demonstrates a basic ETL (Extract, Transform, Load) process. The go
     ```sh
     cd basic-etl-project
     ```
-3. Install the required packages:
-    ```sh
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 1. Place your input data files in the `data/input/` directory.
